@@ -1,3 +1,3 @@
 # komapro
 
-[COPR packages that I mantain](https://github.com/komapro/copr)
+[COPR packages that I mantain](https://codeberg.org/komapro/copr)
